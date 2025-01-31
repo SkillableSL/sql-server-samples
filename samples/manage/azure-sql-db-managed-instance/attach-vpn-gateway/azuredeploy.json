@@ -52,7 +52,8 @@
             "properties": {
                 "publicIPAllocationMethod": "Static",
                 "publicIPAddressVersion": "IPv4"
-            }
+            },
+            "zones": []
         },
         {
             "apiVersion": "2017-10-01",
